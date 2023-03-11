@@ -1,6 +1,6 @@
 ---
-title: Welcome to my blog
-author: Tim Newman
+title: "Hello-is-it-me-you-are-looking-for"
+author: "Tim-Newman"
 ---
 # Welcome
 This site is going to be for my non-work related ramblings. I get to do a lot of cool stuff at work, but I don't get to talk about it.
