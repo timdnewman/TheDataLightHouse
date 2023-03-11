@@ -1,5 +1,5 @@
 ---
-title: "Hello-is-it-me-you-are-looking-for"
+title: "The Data Lighthouse"
 author: "Tim-Newman"
 ---
 # Welcome
