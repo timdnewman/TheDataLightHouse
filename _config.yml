@@ -4,3 +4,4 @@ plugins:
 title: The Data Lighthouse
 author: Tim Newman
 description: Here be monsters
+show_excerpts: true
